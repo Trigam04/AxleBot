@@ -1,7 +1,7 @@
 module.exports = {
     name: "say",
     description: "The bot will say what you tell it to",
-    execute(message, args) {
+    execute(message, args, bot) {
 
         //Creates variable of the user's message
         let sayMsg = message.content
@@ -15,7 +15,9 @@ module.exports = {
         //Sends message
         message.channel.send(sendMsg)
         //Deletes author's message
-        message.delete({timeout: 1});
+        if(message.guild.me.hasPermission('MANAGE_MESSAGES')){
+            message.delete({timeout: 1});
+        }
         return;
     }
 }

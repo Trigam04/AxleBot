@@ -22,7 +22,7 @@ module.exports = {
             message.reply("Please specify a valid user to ban!");
             return;
         }
-        //If author attemots to ban themself
+        //If author attempts to ban themself
         if (message.author.id === member.id) {
             message.reply("You can't ban yourself")
             return;
