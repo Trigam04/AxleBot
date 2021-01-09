@@ -7,7 +7,7 @@ AxleBot isn't just 100% utility, it still has a sense of humor. Laugh at your fr
 
 ## Speak your voice
 
-When it comes to AxleBot, your voice matters. Send me a DM using @Trigam#3053 on Discord if you have any suggestions or if you find a bug, you can also leave your feedback in the support server, joined by using the invite command. Also, feel free to fork this repo and add your own commands. AxleBot is your canvas and your keyboard is the paintbrush. Paint your wildest dreams and anything else. For some bots, the sky is the limit but with AxleBot you can reach for the stars!
+When it comes to AxleBot, your voice matters. Send me a DM using @Trigam#3053 on Discord if you have any suggestions or if you find a bug, you can also leave your feedback in the support server, joined by using the [invite command](https://github.com/Trigam04/AxleBot/blob/master/commands/invite.js). Also, feel free to fork this repo and add your own commands. AxleBot is your canvas and your keyboard is the paintbrush. Paint your wildest dreams and anything else. For some bots, the sky is the limit but with AxleBot you can reach for the stars!
 
 ## All in One
 
