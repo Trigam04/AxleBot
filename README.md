@@ -1,7 +1,7 @@
 ## What is it
 The greatest, fastest, and smartest discord bot. It contains a [state-of-the-art QR command](https://github.com/Trigam04/AxleBot/blob/master/commands/qr.js), [some classic moderation commands](https://github.com/Trigam04/AxleBot/blob/master/commands/ban.js) and some [randomized commands](https://github.com/Trigam04/AxleBot/blob/master/commands/dice.js) for when you need to settle something with friends. Maybe you just wanna have fun and search something on the Geometry Dash servers, [it can do that too](https://github.com/Trigam04/AxleBot/blob/master/commands/gd.js).
 
-## The AxleBot Experience
+## The Axle Bot Experience
 
 Axle isn't just 100% utility, it still has a sense of humor. Laugh at your friends as they take the [best selfie ever](https://github.com/Trigam04/AxleBot/blob/master/commands/selfie.js) or just sit down and [fetch a dank meme](https://github.com/Trigam04/AxleBot/blob/master/commands/meme.js) without even having to open a new tab. Axle isn't just your everyday Discord bot, it's an entire experience.
 
