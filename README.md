@@ -17,5 +17,9 @@ No need for dozens of bots cluttering up your member list when Axle does it all.
 
 Will you switch over to Axle? Want to get the full pros of all other bots without most of the cons? Want to find dozens of unique and quirky commands that you can't find anywhere else? Then join us at Axle and get the best experience you can get from Discord
 
-# AxelBot
+# Axle Bot
 ### The future of Discord Bots, built to serve you
+
+
+
+(Thanks to Nerdopedia for doing pretty much the entire README cause I'm lazy)
