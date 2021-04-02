@@ -1,0 +1,66 @@
+{
+    "lowPing": [
+        "[Low ping response]",
+        "I'm fast as frick boi",
+        "I'm faster than the gym teacher's grandma!",
+        "Is 0 ms even possible?",
+        "I am speed",
+        "Lowest ping speedrun any%",
+        "Was I too fast?",
+        "I am always watching :)"
+    ],
+    "lowMediumPing": [
+        "[Low-Medium ping response]",
+        "Is it good? I can't look!",
+        "Why?",
+        "Meh",
+        "Bruh Momento",
+        "Brussels sound effect #2",
+        "... *pong*",
+        "Hey guys, Axle here",
+        "{@}\nHey, you asked to be pinged!",
+        "Axle has entered the chat",
+        "How do you do, fellow humans?",
+        "Hello Mario"
+    ],
+    "mediumPing": [
+        "[Medium ping response]",
+        "Is that really it?",
+        "Welp, take what you're given...",
+        "*Fine*",
+        "Ask someone else",
+        "New phone who dis",
+        "Nerds, assemble!",
+        "Hey VSauce, Axle here",
+        "Is it pinged or pung?",
+        "TOP OF THE MORNING"
+    ],
+    "mediumHighPing": [
+        "[Medium-High ping response]",
+        "I'd rather not say...",
+        "Ugh, do whatever it is you need to do so I can go back to sleep.",
+        "Well, at least I'm alive",
+        "Sorry just woke up, what's happening?",
+        "This ping is looking awfully like a mistake",
+        "Well let's see YOU make a better bot",
+        "... could be worse",
+        "Oh boy pizza's here!",
+        "Not my proudest moment..."
+    ],
+    "highPing": [
+        "[High ping response]",
+        "Try again later",
+        "You're not the first person to be disappointed in me",
+        "Loading.....",
+        "Wait, something's not right here...",
+        "Hey gu- WOAH THAT WASN'T SUPPOSED TO HAPPEN",
+        "Oh wow, I didn't crash",
+        "Try buying priority queue for a better ping",
+        "It's not my fault I swear",
+        "Those are ROOKIE numbers",
+        "Sorry Trigam walked in, had to take a break",
+        "It's Discord's fault, definitely not mine",
+        "I swear I'm better than this",
+        "Sorry, fell asleep while pinging"
+    ]
+}
